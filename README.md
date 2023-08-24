@@ -1,5 +1,5 @@
 # Updated Masterthesis Tool
-### Using the OpenAI API Quickstart Tutorial [quickstart tutorial](https://beta.openai.com/docs/quickstart)
+### Using the OpenAI API [Quickstart Tutorial](https://beta.openai.com/docs/quickstart)
 
 ## Setup
 1. Clone repository and add .env files:
